@@ -111,6 +111,13 @@ A bank account:
 
 Users cannot directly modify the private balance.
 
+## 8. Encapsulation vs Abstraction
+
+| Encapsulation | Abstraction |
+|---|---|
+| Wraps data and functions together. | Hides unnecessary implementation details. |
+| Focuses on data protection and controlled access. | Focuses on showing essential features. |
+| Achieved using classes and access specifiers. | Achieved using techniques such as abstract classes and interfaces. |
 
 ## 8. Interview Questions
 
